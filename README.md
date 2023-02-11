@@ -11,6 +11,6 @@
 
   <br />Built for Dekstop.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsamm.github.io/basic-calculator/"><strong>➥ Live Demo</strong></a>
 
 </div>
